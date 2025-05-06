@@ -20,8 +20,7 @@ Projeto criado para a matéria de Inteligência Artificial, visando criar uma im
 ### Pré-requisitos
 
 - **Python**
-- **OpenCV**
-- **CVZone**
+- **Pygame**
 - **Numpy**
 
 ### Passos para execução
