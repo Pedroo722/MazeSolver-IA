@@ -3,6 +3,12 @@
 Projeto criado para a matéria de Inteligência Artificial, visando criar uma implementação de um agente treinado para resolver labirintos utilizando o algoritmo **Q-Learning**. O agente aprende a navegar através de um labirinto, coleta uma chave e, somente então, consegue alcançar o objetivo. A visualização é feita com a biblioteca **Pygame**, e a lógica de aprendizado usa a técnica de **Q-Learning**.
 
 
+## Execução
+
+<div align="center">
+  <img src="Treinamento Q-Learning.gif" alt="Execução do Q-Learning" width="800" height="380">
+</div>
+
 ## Tecnologias Usadas
 
 
