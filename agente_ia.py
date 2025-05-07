@@ -20,8 +20,8 @@ ACTIONS = [(0, -1), (0, 1), (-1, 0), (1, 0)]  # cima, baixo, esquerda, direita
 ALPHA = 0.1
 GAMMA = 0.9
 EPSILON = 0.2
-EPISODES = 500
-MAX_STEPS = 300
+EPISODES = 200
+MAX_STEPS = 200
 
 # Cores
 WHITE = (255, 255, 255)
@@ -215,7 +215,7 @@ while running:
             else:
                 path.append(next_pos)
                 agent_pos = next_pos
-                time.sleep(0.8)  # Controlando a velocidade da execução
+                time.sleep(0.8)
         else:
             reached_goal = True
             print("\nCaminho percorrido pelo agente:")
