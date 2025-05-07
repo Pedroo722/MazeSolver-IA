@@ -33,7 +33,7 @@ Projeto criado para a matéria de Inteligência Artificial, visando criar uma im
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/MazeSolver-IA.git
+   git clone https://github.com/Pedroo722/MazeSolver-IA.git
    cd MazeSolver-IA/
    ```
 
